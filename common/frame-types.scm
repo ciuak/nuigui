@@ -1,0 +1,22 @@
+;; Taken from
+;;   https://github.com/acotis/serial-predicate-engine/blob/master/code/dict/frame-list.txt.
+
+((poq #f)
+ (pai #f #f)
+ (fa #f #f #f)
+ (dua #f 0)
+ (leo #f 1)
+ (mia #f 2)
+ (duatua #f #f 0)
+ (kuoi #f #f 1)
+ (jeq #f #f 2)
+ (jia 0)
+ (jipa 1)
+ (jie 0 #f)
+ (fui 1 #f)
+ (soq #f 1 #f)
+ (meakuq #f 0 #f)
+ (ca 0 0)
+ (jeo #f 1)
+ (cua #f 1 1)
+ (koe #f #f #f 1))
